@@ -1,0 +1,7 @@
+rsim/target/
+__pycache__/
+rwork/
+results/
+setup.pkl
+cal_*.pkl
+val_*.pkl
